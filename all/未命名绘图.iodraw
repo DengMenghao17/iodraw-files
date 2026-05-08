@@ -34,7 +34,7 @@
         <mxCell id="l_D5PwCVy3WdegY4jI4h-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_D5PwCVy3WdegY4jI4h-4" target="l_D5PwCVy3WdegY4jI4h-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-4" value="&lt;font face=&quot;宋体&quot;&gt;目标网络&lt;/font&gt;&amp;nbsp;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Target Network)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_D5PwCVy3WdegY4jI4h-5" target="l_D5PwCVy3WdegY4jI4h-7">
