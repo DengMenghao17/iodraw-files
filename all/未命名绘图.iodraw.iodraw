@@ -43,7 +43,7 @@
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-8" target="TFQPUGQbYmOPq-lrhvIS-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-8" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Q&lt;/font&gt;网络\((s_i, a_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-8" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Q&lt;/font&gt;网络&lt;/div&gt;&lt;div&gt;\((s_i, a_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-15" target="TFQPUGQbYmOPq-lrhvIS-16">
