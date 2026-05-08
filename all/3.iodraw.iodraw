@@ -118,7 +118,7 @@
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-59" value="避障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="412.5" width="126" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XcUjscrkJ64Y0CRm8O-5-60" value="避障信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-60" value="输出结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="340" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
