@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;验证网络&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;(Evaluation Network)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="390" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-6" value="输出动作" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="580" width="95" height="50" as="geometry" />
