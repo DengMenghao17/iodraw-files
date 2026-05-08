@@ -4,13 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XcUjscrkJ64Y0CRm8O-5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="XcUjscrkJ64Y0CRm8O-5-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="120" as="sourcePoint" />
-            <mxPoint x="540" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcUjscrkJ64Y0CRm8O-5-1" target="XcUjscrkJ64Y0CRm8O-5-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcUjscrkJ64Y0CRm8O-5-1" target="XcUjscrkJ64Y0CRm8O-5-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-1" value="离散仿真环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
