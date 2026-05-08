@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcUjscrkJ64Y0CRm8O-5-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-38" value="综合策略网络&amp;nbsp;&lt;div&gt;(DDPG Frame)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="340" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcUjscrkJ64Y0CRm8O-5-39" target="XcUjscrkJ64Y0CRm8O-5-38">
