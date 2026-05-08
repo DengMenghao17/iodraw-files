@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcUjscrkJ64Y0CRm8O-5-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-39" value="Q网络" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="810" y="500" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-53" value="离散环境信息，奖励" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
@@ -140,7 +140,7 @@
           <mxGeometry x="414" y="530" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-71" value="连续仿真与DDPG策略网络融合控制&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;(Lower Layer: Continus Simulation and DDPG)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="310" y="247.5" width="340" height="60" as="geometry" />
+          <mxGeometry x="357" y="247.5" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-72" value="离散仿真与DQN算法交互&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;(Upper Layer: Discrete Simulation and DQN)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="374" y="40" width="306" height="60" as="geometry" />
