@@ -37,7 +37,7 @@
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-6" value="计算动作&lt;div style=&quot;font-size: 14px;&quot;&gt;\(a_i = \mu_{\theta}(s_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="390" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-7" value="目标Q网络&lt;div&gt;\((s&#39;_i, a&#39;_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-7" value="目标&lt;font face=&quot;Times New Roman&quot;&gt;Q&lt;/font&gt;网络&lt;div&gt;\((s&#39;_i, a&#39;_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-8" target="TFQPUGQbYmOPq-lrhvIS-17">
