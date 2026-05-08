@@ -113,10 +113,10 @@
           <mxGeometry x="690" y="340" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-61" value="动作价值评价用于更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="880" y="420" width="126" height="30" as="geometry" />
+          <mxGeometry x="880" y="440" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-62" value="最终动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="730" y="420" width="126" height="30" as="geometry" />
+          <mxGeometry x="742" y="430" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-63" value="动作交互作用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="414" y="470" width="126" height="30" as="geometry" />
