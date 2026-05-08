@@ -104,8 +104,8 @@
         <mxCell id="l_D5PwCVy3WdegY4jI4h-32" value="&lt;font face=&quot;宋体&quot;&gt;反馈误差，更新参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="480" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-33" value="&lt;font face=&quot;宋体&quot;&gt;反馈误差，更新参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="490" width="110" height="30" as="geometry" />
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-33" value="&lt;font face=&quot;宋体&quot;&gt;选出&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;训练动作&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="480" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
