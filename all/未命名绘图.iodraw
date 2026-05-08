@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-7" value="&lt;font face=&quot;宋体&quot;&gt;贪心算法&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="465" width="110" height="70" as="geometry" />
+          <mxGeometry x="625" y="470" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_D5PwCVy3WdegY4jI4h-8" target="l_D5PwCVy3WdegY4jI4h-9">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
         <mxCell id="l_D5PwCVy3WdegY4jI4h-29" value="&lt;font face=&quot;宋体&quot;&gt;反馈误差，更新参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="550" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-30" value="&lt;font face=&quot;宋体&quot;&gt;反馈误差，更新参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-30" value="在训练阶段直接给出动作输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="540" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
