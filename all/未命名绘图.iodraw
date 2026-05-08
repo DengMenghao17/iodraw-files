@@ -72,16 +72,10 @@
         <mxCell id="l_D5PwCVy3WdegY4jI4h-22" value="&lt;font face=&quot;宋体&quot;&gt;训练阶段&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="485" y="550" as="sourcePoint" />
-            <mxPoint x="300" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-24" value="&lt;font face=&quot;宋体&quot;&gt;计算均方误差&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="505" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l_D5PwCVy3WdegY4jI4h-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="550" as="sourcePoint" />
             <mxPoint x="460" y="500" as="targetPoint" />
