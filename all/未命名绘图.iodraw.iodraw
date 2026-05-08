@@ -10,11 +10,20 @@
         <mxCell id="2whB0NYMzhbK3gQAwJZk-1" value="综合任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2whB0NYMzhbK3gQAwJZk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2whB0NYMzhbK3gQAwJZk-2" target="2whB0NYMzhbK3gQAwJZk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2whB0NYMzhbK3gQAwJZk-2" value="综合任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="100" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2whB0NYMzhbK3gQAwJZk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2whB0NYMzhbK3gQAwJZk-3" target="2whB0NYMzhbK3gQAwJZk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2whB0NYMzhbK3gQAwJZk-3" value="综合任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2whB0NYMzhbK3gQAwJZk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2whB0NYMzhbK3gQAwJZk-4" target="2whB0NYMzhbK3gQAwJZk-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2whB0NYMzhbK3gQAwJZk-4" value="综合任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="100" width="120" height="80" as="geometry" />
