@@ -99,8 +99,8 @@
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-57" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="240" as="sourcePoint" />
-            <mxPoint x="1050" y="240" as="targetPoint" />
+            <mxPoint x="40" y="240" as="sourcePoint" />
+            <mxPoint x="1080" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-58" value="寻迹信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
