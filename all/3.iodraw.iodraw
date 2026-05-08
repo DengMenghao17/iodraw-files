@@ -102,8 +102,11 @@
             <mxPoint x="960" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcUjscrkJ64Y0CRm8O-5-58" value="动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="126" height="30" as="geometry" />
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-58" value="寻迹信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="307.5" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-59" value="寻迹信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="317.5" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
