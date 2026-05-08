@@ -146,7 +146,10 @@
           <mxGeometry x="414" y="530" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-71" value="连续仿真与DDPG策略网络融合控制&lt;div&gt;&amp;nbsp;(Lower Layer: Continus Simulation and DDPG)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="312" y="250" width="246" height="60" as="geometry" />
+          <mxGeometry x="310" y="247.5" width="278" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-72" value="连续仿真与DDPG策略网络融合控制&lt;div&gt;&amp;nbsp;(Lower Layer: Continus Simulation and DDPG)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="298" y="40" width="278" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
