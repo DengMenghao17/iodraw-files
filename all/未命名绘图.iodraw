@@ -98,11 +98,11 @@
         <mxCell id="l_D5PwCVy3WdegY4jI4h-29" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;反馈误差，更新参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="290" y="550" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-30" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;在训练阶段直接给出动作输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-30" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;在训练阶段&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;直接给出动作输出&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="550" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-32" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;反馈误差，更新参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="480" width="110" height="30" as="geometry" />
+          <mxGeometry x="480" y="480" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-33" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;选出&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;训练动作&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="710" y="480" width="110" height="30" as="geometry" />
