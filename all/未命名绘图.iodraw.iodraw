@@ -16,7 +16,7 @@
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-3" target="TFQPUGQbYmOPq-lrhvIS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-3" value="目标策略网络&lt;div style=&quot;font-size: 14px;&quot;&gt;$$\mu_{\theta^-}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-3" value="目标策略网络&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\mu_{\theta^-}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-4" target="TFQPUGQbYmOPq-lrhvIS-6">
