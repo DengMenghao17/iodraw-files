@@ -1,100 +1,100 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gkG5VmqKxurEp-BDLeZv">
-    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="6004" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-1" target="TFQPUGQbYmOPq-lrhvIS-3">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-1" target="TFQPUGQbYmOPq-lrhvIS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-1" target="TFQPUGQbYmOPq-lrhvIS-4">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-1" target="TFQPUGQbYmOPq-lrhvIS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-1" value="经验回放池" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-1" value="经验回放池" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-3" target="TFQPUGQbYmOPq-lrhvIS-5">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-3" target="TFQPUGQbYmOPq-lrhvIS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-3" value="目标策略网络&lt;div style=&quot;font-size: 12px;&quot;&gt;\(\mu_{\theta^-}\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-3" value="目标策略网络&lt;div style=&quot;font-size: 13px;&quot;&gt;\(\mu_{\theta^-}\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-4" target="TFQPUGQbYmOPq-lrhvIS-6">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-4" target="TFQPUGQbYmOPq-lrhvIS-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-4" value="策略网络&lt;div&gt;\(\mu_{\theta}\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-4" value="策略网络&lt;div style=&quot;font-size: 13px;&quot;&gt;\(\mu_{\theta}\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-5" target="TFQPUGQbYmOPq-lrhvIS-7">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-5" target="TFQPUGQbYmOPq-lrhvIS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-5" value="计算下一动作&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%9B%AE%E6%A0%87%E7%AD%96%E7%95%A5%E7%BD%91%E7%BB%9C%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22180%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;div&gt;\(a&#39;_i = \mu_{\theta^-}(s&#39;_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-5" value="计算下一动作&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 13px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%9B%AE%E6%A0%87%E7%AD%96%E7%95%A5%E7%BD%91%E7%BB%9C%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22180%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;\(a&#39;_i = \mu_{\theta^-}(s&#39;_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="390" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-6" target="TFQPUGQbYmOPq-lrhvIS-8">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-6" target="TFQPUGQbYmOPq-lrhvIS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-6" value="计算动作&lt;div&gt;\(a_i = \mu_{\theta}(s_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-6" value="计算动作&lt;div style=&quot;font-size: 13px;&quot;&gt;\(a_i = \mu_{\theta}(s_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="390" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-7" value="目标Q网络&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%AE%A1%E7%AE%97%E4%B8%8B%E4%B8%80%E5%8A%A8%E4%BD%9C%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20white-space%3A%20nowrap%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%25E7%259B%25AE%25E6%25A0%2587%25E7%25AD%2596%25E7%2595%25A5%25E7%25BD%2591%25E7%25BB%259C%2526lt%253Bdiv%2526gt%253B%2526lt%253Bbr%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253B%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522240%2522%2520y%253D%2522180%2522%2520width%253D%2522120%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22180%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;div&gt;\((s&#39;_i, a&#39;_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-7" value="目标Q网络&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 13px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%AE%A1%E7%AE%97%E4%B8%8B%E4%B8%80%E5%8A%A8%E4%BD%9C%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20white-space%3A%20nowrap%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%25E7%259B%25AE%25E6%25A0%2587%25E7%25AD%2596%25E7%2595%25A5%25E7%25BD%2591%25E7%25BB%259C%2526lt%253Bdiv%2526gt%253B%2526lt%253Bbr%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253B%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522240%2522%2520y%253D%2522180%2522%2520width%253D%2522120%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22180%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;\((s&#39;_i, a&#39;_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-8" target="TFQPUGQbYmOPq-lrhvIS-17">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-8" target="TFQPUGQbYmOPq-lrhvIS-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-8" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Q&lt;/font&gt;网络&lt;/div&gt;&lt;div&gt;\((s_i, a_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-8" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Q&lt;/font&gt;网络&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;\((s_i, a_i)\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-15" target="TFQPUGQbYmOPq-lrhvIS-16">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-15" target="TFQPUGQbYmOPq-lrhvIS-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-15" value="&lt;div&gt;计算&lt;font face=&quot;Times New Roman&quot;&gt;Critic Loss&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Critic_Loss Calculation)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-15" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;计算&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Critic Loss&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;(Critic_Loss Calculation)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="780" y="240" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-16" target="TFQPUGQbYmOPq-lrhvIS-19">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-16" target="TFQPUGQbYmOPq-lrhvIS-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-16" value="&lt;div&gt;更新&lt;font face=&quot;Times New Roman&quot;&gt;Critic&lt;/font&gt;&lt;/div&gt;&lt;div&gt;参数\(\omega\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-16" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;更新&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Critic&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;参数\(\omega\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="990" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-17" target="TFQPUGQbYmOPq-lrhvIS-18">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-17" target="TFQPUGQbYmOPq-lrhvIS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-17" value="&lt;div&gt;计算&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Actor Loss&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-17" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;计算&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Actor Loss&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="720" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-18" target="TFQPUGQbYmOPq-lrhvIS-19">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-18" target="TFQPUGQbYmOPq-lrhvIS-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-18" value="&lt;div&gt;更新&lt;font face=&quot;Times New Roman&quot;&gt;Actor&lt;/font&gt;&lt;/div&gt;&lt;div&gt;参数\(\theta\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-18" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;更新&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Actor&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;参数\(\theta\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="870" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-19" value="&lt;div&gt;软更新&lt;/div&gt;&lt;div&gt;\(\theta^- \leftarrow \tau\theta + (1 - \tau)\theta^-\)&lt;/div&gt;&lt;div&gt;\(\omega^- \leftarrow \tau\omega + (1 - \tau)\omega^-\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-19" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;软更新&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;\(\theta^- \leftarrow \tau\theta + (1 - \tau)\theta^-\)&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;\(\omega^- \leftarrow \tau\omega + (1 - \tau)\omega^-\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1020" y="350" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-8" target="TFQPUGQbYmOPq-lrhvIS-15">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-8" target="TFQPUGQbYmOPq-lrhvIS-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="390" as="sourcePoint" />
             <mxPoint x="810" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.016;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-7" target="TFQPUGQbYmOPq-lrhvIS-15">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.016;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-7" target="TFQPUGQbYmOPq-lrhvIS-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="390" as="sourcePoint" />
             <mxPoint x="810" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-31" value="\(s&#39;_i\) from buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-31" value="\(s&#39;_i\) from buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="245" y="240" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-32" value="\(s_i\) from buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-32" value="\(s_i\) from buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="245" y="270" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-33" value="&lt;font face=&quot;宋体&quot;&gt;目标评价&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Target Q-value)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-33" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;目标评价&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;(Target Q-value)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="690" y="195" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-34" value="&lt;font face=&quot;宋体&quot;&gt;当前评价&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Current Q-value)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-34" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;当前评价&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;(Current Q-value)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="690" y="300" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
