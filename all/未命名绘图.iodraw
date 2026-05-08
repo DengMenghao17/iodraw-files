@@ -114,7 +114,7 @@
           <mxGeometry x="910" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-37" value="&lt;font face=&quot;宋体&quot;&gt;产生环境反馈&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="350" width="110" height="30" as="geometry" />
+          <mxGeometry x="890" y="180" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
