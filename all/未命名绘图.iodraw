@@ -22,7 +22,7 @@
         <mxCell id="l_D5PwCVy3WdegY4jI4h-2" value="&lt;font face=&quot;宋体&quot;&gt;训练数据整理&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;(formatted text only)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="250" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-3" value="目标网络&lt;div&gt;&amp;nbsp;(Target Network)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-3" value="&lt;font face=&quot;宋体&quot;&gt;目标网络&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;(Target Network)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_D5PwCVy3WdegY4jI4h-4" target="l_D5PwCVy3WdegY4jI4h-3">
@@ -40,7 +40,7 @@
         <mxCell id="l_D5PwCVy3WdegY4jI4h-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_D5PwCVy3WdegY4jI4h-5" target="l_D5PwCVy3WdegY4jI4h-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-5" value="验证网络&lt;div&gt;&amp;nbsp;(Evaluation Network)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_D5PwCVy3WdegY4jI4h-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
