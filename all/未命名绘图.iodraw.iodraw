@@ -67,6 +67,9 @@
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-19" value="&lt;div&gt;软更新&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1020" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.627;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-8" target="TFQPUGQbYmOPq-lrhvIS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
