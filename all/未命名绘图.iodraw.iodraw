@@ -16,7 +16,7 @@
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-3" target="TFQPUGQbYmOPq-lrhvIS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-3" value="目标策略网络&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\mu_{\theta^-}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-3" value="目标策略网络&lt;div style=&quot;font-size: 12px;&quot;&gt;\(\mu_{\theta^-}\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-4" target="TFQPUGQbYmOPq-lrhvIS-6">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-28" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left; background-color: rgb(246, 248, 250);&quot;&gt;\(\sqrt{3×-1}+(1+x)^2\)from buffer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="180" height="30" as="geometry" />
+          <mxGeometry x="230" y="240" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
