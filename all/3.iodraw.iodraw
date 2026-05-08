@@ -128,7 +128,7 @@
           <mxGeometry x="730" y="420" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-63" value="动作交互作用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="126" height="30" as="geometry" />
+          <mxGeometry x="374" y="510" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
