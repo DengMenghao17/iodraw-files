@@ -97,8 +97,8 @@
             <mxPoint x="485" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l_D5PwCVy3WdegY4jI4h-29" value="&lt;font face=&quot;宋体&quot;&gt;训练阶段&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="550" width="60" height="30" as="geometry" />
+        <mxCell id="l_D5PwCVy3WdegY4jI4h-29" value="&lt;font face=&quot;宋体&quot;&gt;反馈误差，更新参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="550" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
