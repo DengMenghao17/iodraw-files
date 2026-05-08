@@ -125,7 +125,10 @@
           <mxGeometry x="880" y="420" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-62" value="最终动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="126" height="30" as="geometry" />
+          <mxGeometry x="730" y="420" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-63" value="寻迹信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="317.5" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
