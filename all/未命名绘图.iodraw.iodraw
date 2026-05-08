@@ -79,7 +79,7 @@
             <mxPoint x="810" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-28" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left; background-color: rgb(246, 248, 250);&quot;&gt;\(\sqrt{3×-1}+(1+x)^2\)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-28" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left; background-color: rgb(246, 248, 250);&quot;&gt;\(\sqrt{3×-1}+(1+x)^2\)from buffer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
