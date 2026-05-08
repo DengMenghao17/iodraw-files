@@ -157,6 +157,9 @@
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-76" value="不断探索得到有益环境信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="190" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-77" value="设计下层连续仿真环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
