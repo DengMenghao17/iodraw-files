@@ -79,8 +79,8 @@
             <mxPoint x="810" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-28" value="$$s&#39;_i$$from&amp;nbsp; buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="240" width="140" height="30" as="geometry" />
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-28" value="^s&#39;_i^" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
