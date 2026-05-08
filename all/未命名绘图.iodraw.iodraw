@@ -94,8 +94,8 @@
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-33" value="&lt;font face=&quot;宋体&quot;&gt;目标评价&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Target Q-value)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="195" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-34" value="&lt;font face=&quot;宋体&quot;&gt;目标评价&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Target Q-value)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="205" width="90" height="30" as="geometry" />
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-34" value="&lt;font face=&quot;宋体&quot;&gt;当前评价&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Current Q-value)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
