@@ -79,7 +79,7 @@
             <mxPoint x="810" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-28" value="&#39;s&#39;_i&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-28" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.75); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; font-variant-ligatures: no-common-ligatures; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;`&lt;/span&gt;s&#39;_i&lt;span style=&quot;color: rgba(0, 0, 0, 0.75); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; font-variant-ligatures: no-common-ligatures; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
