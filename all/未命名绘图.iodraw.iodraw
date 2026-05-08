@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2whB0NYMzhbK3gQAwJZk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2whB0NYMzhbK3gQAwJZk-1" target="2whB0NYMzhbK3gQAwJZk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2whB0NYMzhbK3gQAwJZk-1" value="综合任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="120" height="80" as="geometry" />
         </mxCell>
@@ -22,7 +25,7 @@
         <mxCell id="2whB0NYMzhbK3gQAwJZk-6" value="综合任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2whB0NYMzhbK3gQAwJZk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.042;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2whB0NYMzhbK3gQAwJZk-1" target="2whB0NYMzhbK3gQAwJZk-2">
+        <mxCell id="2whB0NYMzhbK3gQAwJZk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2whB0NYMzhbK3gQAwJZk-1" target="2whB0NYMzhbK3gQAwJZk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
