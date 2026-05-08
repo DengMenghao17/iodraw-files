@@ -56,10 +56,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-15" value="&lt;div&gt;计算&lt;font face=&quot;Times New Roman&quot;&gt;Critic Loss&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(Critic_Loss Calculation)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="740" y="240" width="170" height="60" as="geometry" />
+          <mxGeometry x="780" y="240" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-16" value="&lt;div&gt;更新Critic参数$$\omega$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="950" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFQPUGQbYmOPq-lrhvIS-17" target="TFQPUGQbYmOPq-lrhvIS-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-17" value="&lt;div&gt;计算&lt;/div&gt;&lt;div&gt;Actor Loss&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="720" y="350" width="120" height="60" as="geometry" />
