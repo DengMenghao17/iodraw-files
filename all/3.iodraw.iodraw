@@ -96,8 +96,11 @@
         <mxCell id="XcUjscrkJ64Y0CRm8O-5-55" value="动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="200" width="126" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XcUjscrkJ64Y0CRm8O-5-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="XcUjscrkJ64Y0CRm8O-5-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="270" as="sourcePoint" />
+            <mxPoint x="490" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
