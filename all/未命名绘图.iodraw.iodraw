@@ -88,8 +88,8 @@
         <mxCell id="TFQPUGQbYmOPq-lrhvIS-31" value="\(s&#39;_i\) from buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="245" y="240" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TFQPUGQbYmOPq-lrhvIS-32" value="\(s&#39;_i\) from buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="255" y="250" width="110" height="30" as="geometry" />
+        <mxCell id="TFQPUGQbYmOPq-lrhvIS-32" value="\(s_i\) from buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="245" y="270" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
